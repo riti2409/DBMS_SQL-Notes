@@ -7,7 +7,7 @@ DBMS_SQL Notes
 
   https://www.youtube.com/playlist?list=PLL8qj6F8dGlSZYUFrX6ASTdFWiUlLjguc (Tutorials space)
 
-- PDF(of notes): 
+- PDF(of notes): https://drive.google.com/file/d/1XGU4dusm9IV2DzBnuKhrrM_o7hUIt7NT/view?usp=sharing
 
 - ![sql-basics-cheat-sheet-a4-page-1](https://user-images.githubusercontent.com/65703138/150641076-dd864e47-41fd-46e5-87a5-6e4c34326c96.png)
 
