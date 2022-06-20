@@ -19,3 +19,5 @@ DBMS_SQL Notes
 1) [Geeks for geeks](https://www.geeksforgeeks.org/sql-tutorial/)
 2) [w3-schools](https://www.w3schools.com/sql/)
 3) [tutorials Point](https://www.tutorialspoint.com/sql/index.htm)
+
+Would love if you add more in the list :)
